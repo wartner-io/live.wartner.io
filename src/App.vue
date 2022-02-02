@@ -1,6 +1,6 @@
 <template>
   <navigation></navigation>
-  <div class="grid place-items-center h-screen shadow-2xl rounded-md">
+  <div class="grid place-items-center h-screen">
     <div id="twitch-embed"></div>
   </div>
 </template>
